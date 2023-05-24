@@ -1,2 +1,2 @@
 [appservers]
-54.87.51.153 ansible_user=ec2-user 
+54.87.51.153 ansible_user=ubuntu 
